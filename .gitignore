@@ -1,1 +1,10 @@
-data/data/
+data/
+audio_results/
+*.mat
+*.tiff
+*.zip
+*.npy
+*.npz
+.venv/
+__pycache__/
+.DS_Storedata/
